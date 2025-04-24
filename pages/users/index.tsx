@@ -1,5 +1,6 @@
 import { GetStaticProps } from "next";
 import Link from "next/link";
+import '../styles/globals.css';
 
 import { User } from "../../interfaces";
 import { sampleUserData } from "../../utils/sample-data";
