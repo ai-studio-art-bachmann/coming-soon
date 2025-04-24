@@ -17,7 +17,11 @@
     "tailwind-merge": "^1.14.0",
     "tailwindcss-animate": "^1.0.7"
   },
+  "engines": {
+    "node": "18.x"
+  },
   "devDependencies": {
+    "@netlify/plugin-nextjs": "^5.10.7",
     "@types/node": "^20.5.9",
     "@types/react": "^18.2.21",
     "@types/react-dom": "^18.2.7",
